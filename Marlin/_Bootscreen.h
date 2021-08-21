@@ -4,7 +4,7 @@
  *
  * This bitmap from the file '64px-Bang_icon_32x32.svg.png'
  */
-// #pragma once
+#pragma once
 #define BOOTSCREEN_TIMEOUT 4000      // (ms) Total Duration to display the boot screen(s)
 #define CUSTOM_BOOTSCREEN_BMPWIDTH  128
 
